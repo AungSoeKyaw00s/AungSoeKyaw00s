@@ -57,5 +57,5 @@ You can reach me on [LinkedIn](https://www.linkedin.com/in/aungskyaw00/).
 Credits: [Aung Soe{Jonathan} Kyaw](https://github.com/AungSoeKyaw00s)
 
 <p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=AungSoeKyaw00s&color=brightblue" alt="watching_count" />
+  <img src="https://komarev.com/ghpvc/?username=AungSoeKyaw00s&color=gray" alt="watching_count" />
 </p>

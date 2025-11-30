@@ -47,7 +47,7 @@ You can reach me on [LinkedIn](https://www.linkedin.com/in/aungskyaw00/).
 ## Projects
 
 - [UTS Myanmar Student Association](https://www.utsmsa.org/)
-- [Ngwe Hin Thar Traditional Medicine](ngwehintha.vercel.app)
+- [Ngwe Hin Thar Traditional Medicine](https://ngwehintha.vercel.app)
 
 - [Flatmate clone](https://flatdev.vercel.app/)
 

@@ -1,9 +1,9 @@
-<div align="center">
+<div align="left">
 
 # Jonathan
 ### Software Engineer — Sydney, Australia
 
-Fullstack developer crafting web experiences with modern JavaScript ecosystems.
+Software engineer who loves building things and solving problems.
 Always learning. Always building.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aungskyaw00/)
